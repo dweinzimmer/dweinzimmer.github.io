@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "David Weinzimmer"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "-" # "-"
+subtitle                 : "hallo from atlanta" # site tagline that appears below site title in masthead
 name                     : "David Weinzimmer"
-description              : "Hallo from Atlanta."
+description              : "This is a description."
 url                      : "https://dweinzimmer.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dweinzimmer/dweinzimmer.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
