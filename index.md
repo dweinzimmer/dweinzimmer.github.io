@@ -9,9 +9,9 @@ header:
 
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/DWeinzimmer_headshot_300x300.jpg){: .align-left} Hi, I’m David. I’m a full-stack software engineer. My primary web development experience is in full-stack PHP, JavaScript (ES6, React, Node.js, Express), and SQL (PostgreSQL, MySQL).
+![my headshot]({{ site.url }}{{ site.baseurl }}/assets/images/DWeinzimmer_headshot_300x300.jpg){: .align-left} Hi, I’m David. I’m a full-stack software engineer. My primary web development experience is in full-stack PHP, JavaScript, TypeScript, React, and SQL (PostgreSQL, MySQL).
 
-My prior professional experience is in transportation planning, consulting, and project management, both within government and in the private sector. I have masters degrees in Transportation Engineering (M.S.) and City Planning (M.C.P.) from the University of California, Berkeley. Go Bears! 🐻
+My prior professional experience is in transportation planning, consulting, and project management, both within government and in the private sector. I have masters degrees in Transportation Engineering (M.S.) and City Planning (M.C.P.) from the University of California, Berkeley. Go Bears! 🐻 I’m enthusiastic about using civic innovation to improve public service delivery.
 
 When I’m not thinking about technology or transportation, I also enjoy food, reading, learning languages, sewing, and getting outside on my two feet or a bike! 🚲
 
