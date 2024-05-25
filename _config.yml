@@ -325,3 +325,18 @@ defaults:
       comments: # true
       share: # true
       related: true
+  # _travel-recommendations
+  - scope:
+      path: ""
+      type: travel-recommendations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: #true
+
+# Collections
+collections:
+  travel-recommendations:
+    output: true
+    permalink: /:collection/:path/
