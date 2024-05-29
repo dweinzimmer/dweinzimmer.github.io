@@ -34,4 +34,4 @@ You’re here to eat.
 - **Concha y Nata** ([site](https://conchaynata.com/), [map](https://www.google.com/maps/place/Concha+y+Nata/@19.4188163,-99.1666341,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1ffde343717d3:0x6c1e6f1de0c88019!8m2!3d19.4188113!4d-99.1640592!16s%2Fg%2F11jttm7_8t?entry=ttu)) oh man, this place is SO GOOD! Come here for breakfast and get... a *concha con nata*. These are the best conchas I've ever had (I love the vanilla concha), and you can get it with *nata* which is a kind of whipped heavy cream.
 - And if that’s not enough, here’s a [taco list](https://foursquare.com/dfchic/list/los-mejores-tacos-de-la-ciudad) for more places to find amazing tacos 🌮🌮🌮. Honorable mentions for tacos include El Farolito, El Borrego Viudo, Taqueria El Jarocho… And while you’re at it, make sure to have some chilaquiles somewhere. It makes me emotional to think about it.
 
-That’s all for now! Check out my other [travel recommendations](/travel-recommendations/), including some for Oaxaca!
+That’s all for now! Check out my other [travel recommendations](/travel-recommendations/), including for [Oaxaca](/travel-recommendations/oaxaca/)!
