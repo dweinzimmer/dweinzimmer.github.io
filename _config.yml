@@ -20,7 +20,7 @@ title                    : "David Weinzimmer"
 title_separator          : "-" # "-"
 subtitle                 : "hallo from atlanta" # site tagline that appears below site title in masthead
 name                     : "David Weinzimmer"
-description              : "This is a description."
+description              : "I'm a full-stack software engineer with a background in city planning. Welcome to my web site!"
 url                      : "https://dweinzimmer.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dweinzimmer/dweinzimmer.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -229,7 +229,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
