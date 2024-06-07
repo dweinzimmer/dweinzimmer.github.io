@@ -6,8 +6,7 @@ header:
   teaser: assets/images/portland-me.jpg
 ---
 
-
-It’s a bit random that this is my second ever page of travel recommendations in the US (even before Brooklyn, where I live now!), but I went on a long weekend to Portland, Maine in June 2019, and here’s the things I enjoyed doing!
+I went on a long weekend to Portland, Maine in June 2019, and here’s the things I enjoyed doing!
 
 # Food
 
