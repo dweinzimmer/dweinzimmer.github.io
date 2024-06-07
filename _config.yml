@@ -21,7 +21,7 @@ title_separator          : "-" # "-"
 subtitle                 : "hallo from atlanta" # site tagline that appears below site title in masthead
 name                     : "David Weinzimmer"
 description              : "I'm a full-stack software engineer with a background in city planning. Welcome to my web site!"
-url                      : "https://dweinzimmer.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dweinz.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dweinzimmer/dweinzimmer.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
