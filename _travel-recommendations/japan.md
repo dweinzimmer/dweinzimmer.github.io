@@ -7,8 +7,10 @@ header:
 ---
 
 🚧🚧🚧🚧🚧
+
 Under construction!
 I'm actively drafting these recommendations right now, but it's published because it can't wait! Check back, it'll be complete soon.
+
 🚧🚧🚧🚧🚧
 
 I spent almost a month in Japan in spring 2024 (and was lucky to catch cherry blossom season since it came almost two weeks late!). Here are some of my highlights.
@@ -46,7 +48,11 @@ You'll see a lot of things from pre-2023 encouraging getting a [Japan Rail Pass]
 
 If you have a rail pass, it will have a protocol for how you can reserve tickets through it (I was able to prebook trips with my Sapporo-Noboribetsu Area pass through their website).
 
-PLACEHOLDER you can reserve for groups... talk about both apps. Like I mentioned in the [IC cards section above](#ic-cards), ....get your number so you can tap in.
+There are two platforms for booking shinkansen (high speed) trains: [**SmartEX**](https://smart-ex.jp/en/app/download/index.html) for JR Central (from Tokyo to the west and south) and [**Eki-Net**](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) for JR East (from Tokyo to the east and north). Eki-Net does not actually have an app, but for iOS you can follow the directions [here](https://support.apple.com/guide/iphone/bookmark-favorite-webpages-iph42ab2f3a7/ios) to add an app-like website icon to your homescreen/apps list.
+
+I found [this video](https://www.youtube.com/watch?v=IpSMSn0DzgA) about booking shinkansen tickets very helpful, but I was still confused and nervous about booking tickets for a group (me and my partner) and how that would work. It ended up being super easy! I got both my and my partner's IC card numbers (see the [IC cards section above](#ic-cards)) into the SmartEx app, and was able to link the tickets I purchased to our IC cards. When it was time to go to the shinkansen platform, we just tapped our phones effortlessly at the shinkansen faregates!
+
+If you book at least a few days or more in advance, different discounted fare classes become available. Generally, it's possible to book tickets up to about a month at most in advance.
 
 ## Itineraries
 
@@ -65,10 +71,35 @@ I stayed in a few different places in Tokyo... Shimbashi (at the [1899 Hotel](ht
 If you fly into Narita International Airport, you may see signs as you're waiting in the interminable passport control line to tell you to pre-purchase your [Narita Express](https://www.jreast.co.jp/multi/en/nex/) train ticket. Don't do it! Prepurchasing just meant that I had to wait in an incredibly long line to pick up the ticket; it would have been much faster to just purchase directly at the ticket vending machines.
 {: .notice--warning}
 
-## Activities
+## Activities, Shopping
+
+- The [**TeamLab**](https://www.teamlab.art/) experiential art museums were really cool! There are two: [**TeamLab Borderless**](https://www.teamlab.art/e/tokyo/) and [**TeamLab Planets**](https://www.teamlab.art/e/planets/). You should definitely reserve in advance (ideally a few weeks, though some last minute spots can open up). The two museums have some overlap. TeamLab Planets is a bit more linear -- there's a set sequence to follow to walk through it all; TeamLab Borderless is much more of a choose-your-own-adventure, wandering through tons of rooms, finding hidden doors, and you may not actually find every space in the time you're there! The museums are very well done; this is not a "just for the 'gram" experience, it's actually really cool... although it definitely *also* makes for some dramatic instagram posts.
+- We weren't able to visit the [**Ghibli Museum**](https://maps.app.goo.gl/qD3uwsdbaRweGmtL9), even though I was ready to buy tickets at 10am Japan Time on the 10th of the month, the month before our visit ([buying tickets](https://www.ghibli-museum.jp/en/tickets/)). I sat in a concert-ticket-like queue for almost an hour, and the website crashed repeatedly when I finally was at the front of the queue to buy tickets... I then learned that Klook had been selling tickets months in advance, though they are not at the time I write this (June 2024)... My advice would be to buy tickets in advance through a third party if they are available, or to log on *at least* 15-20 minutes before ticket sales open (and to use the Chrome browser for it). Don't try to use the ticket link for Japanese residents unless you have a Japanese phone number and address.
+- I loved the **Asakusa** neighborhood and [**Senso-ji Temple**](https://maps.app.goo.gl/yrnmY5PshRGN6LLB6) a lot! There were lots of interesting souvenirs and snacks along [Nakamise-dori Street](https://maps.app.goo.gl/TrWeBWPjuhqfyfJD8) from the train station to the temple, and the temple and gardens were stunningly beautiful. Buy charms if you'd like, but I'd recommend NOT buying your fortune... there are a lot of bad ones! I also got inspired by the Japanese fashion I was seeing, and found a cool Japanese jacket nearby at [**Fujigoromo**](https://maps.app.goo.gl/rMaiTnzgHJ8kZoz4A).
+- The [**Meguro River Cherry Blossoms Promenade**](https://maps.app.goo.gl/caLXY54Rpm1ZCQFq5) was a lovely walk, especially since we got lucky to coincide with sakura season.
+- [**The Flat Head**](https://maps.app.goo.gl/wbhVh7Ty8e1GZwUp7) is a nice denim boutique in **Harajuku** where I bought a great denim jacket! If you get hungry while shopping, the [Dai Sui En](https://maps.app.goo.gl/nubCCvpnMmhtiatdA) izakaya next door is solid. My friend said there were more good stores for women's clothing a couple blocks east on Cat Street.
+- [**Meiji Jingu**](https://maps.app.goo.gl/TZsqwyWavCzytayG8) is a nice temple in Harajuku, set in a large park.
+- [**HANDS Shinjuku**](https://maps.app.goo.gl/negGz1EN4km3XfnR9) is an impressive department store, and especially a destination for crafters, sewers, etc. [**Sekaido Shinjuku**](https://maps.app.goo.gl/cGkjoF2AAo9pdS2i7) is nearby and is an excellent, large stationery store.
+
+There is a lot of really fun shopping in Ginza...
+- The [**Uniqlo Ginza Flagship Store**](https://maps.app.goo.gl/94aNnSnSM9n8PmvB8?g_st=ia) has a full 11 stories of Uniqlo! It was very busy in the evening, but going when it opened at 11am was awesome.
+- The [**Muji Ginza Flagship Store**](https://maps.app.goo.gl/CwP6a7Bv7VZs7aPAA) is a few blocks away.
+- [**Ginza Itoya**](https://maps.app.goo.gl/W1CHCxoZhdfS7vEbA) is the place to go for all your stationery needs (and random other stuff, too).
+- [**Ginza Natsuno**](https://maps.app.goo.gl/sowhXfG8f5RF6hPp7) had more expensive but very beautiful chopsticks, a great place for gifts. You can pay anywhere from ~$15 to unspeakably large sums.
+- [**Shoyeido Ginza**](https://maps.app.goo.gl/o7UCLUycQeWeTEka7) is an incense shop that we stumbled upon that had beautiful, gift-worthy items.
 
 
 ## Food & Drink
+
+- [**Tsukiji Outer Market**](https://www.google.com/maps/place/Tsukiji+Outer+Market/@35.6611463,139.7705461,15.53z/data=!3m1!5s0x60188bded0599099:0x9e8525c63588dca4!4m6!3m5!1s0x60188b21cd0b675b:0xa26e24a1bf97025c!8m2!3d35.6649185!4d139.7702195!16zL20vMDJsazc2) is both an attraction and very much a place to eat! The fish market has moved over to [Toyosu Fish Market](https://www.google.com/maps/place/Toyosu+Wholesale+Fish+Market/@35.6485545,139.7783982,15.53z/data=!3m1!5s0x60188991c87b9e95:0xf92470403d757b73!4m6!3m5!1s0x6018898de24f1911:0x6ab786a75d8ff16b!8m2!3d35.6419028!4d139.7818519!16s%2Fg%2F11c1p69023) and there are plenty of [guides](https://tokyocheapo.com/entertainment/sightseeing/toyosu-fish-market-what-to-know/) about how to visit that, though we didn't. But I went to Tsukiji three times! I suggest going in the morning; arriving around 8/8:30 was nice and a little less crowded than at 10am. I will never forget the incredible miso black cod I had from [here](https://maps.app.goo.gl/MHHsRKKpEv3U4CuP9). The A5 wagyu steak skewers at [Tsukiji Ihachi](https://maps.app.goo.gl/2YQNG78DGsKvvMbCA?g_st=ia) made my travel partners very emotional, and I loved the King crab leg. 🥹
+- Around **Asakusa** and Senso-ji Temple, I enjoyed [**Hatoya's Vegan Fruit Sandwiches**](https://maps.app.goo.gl/RTLeWz52W8Pigp3k8), and had *such* a delicious tempura lunch at [**Tentou**](https://maps.app.goo.gl/ucNsyGbi5DLSUFeK6)... my mouth is watering at the memory of that mixed seafood tempura over rice.
+- [**Soba Sadaharu**](https://maps.app.goo.gl/mPMJBcoe4aWsbi5A6) I LOVED this soba. This place was so great... just a casual lunch place where local office works line up outside, place their orders at the machine by the door (look at the menu in Google Maps while you wait/get your Google Translate handy!). I got the *tenzaru soba* (cold soba with a truly enormous mixed seafood tempura), and it was very good. You can add various toppings and an egg for free. Perfection, and it cost me less than $10.
+- [**Shinshodoh**](https://maps.app.goo.gl/kdLz3FfX7MzvWzcB8) is a confectioner's shop that was near our hotel, known for their *seppuku monaka*, a red bean cake that is traditionally given as an apology. I wouldn't go far out of my way for it, but it was tasty! Near Soba Sadaharu.
+- [**Sushi Hiroya**](https://maps.app.goo.gl/5qHx34mjAtt5DwzN8) was the omakase sushi we went to, which we really enjoyed! We made our reservation through JPNeazy. My friend loved her omakase sushi at [**Sushi Ishiyama**](https://maps.app.goo.gl/M4VFri7ZiRtSMWHw8).
+- [**楽椿ーラクチン**](https://maps.app.goo.gl/wfFYmFxEgtfcGdUp6) in Shibuya was the izakaya we went to on our very first night in Japan, and we really struck gold with it. It was SO good. Delicious torched mackerel, an avocado-tuna dish served with garlic bread, great sushi, and it was all very inexpensive unlike most of the other nearby restaurants. They were friendly and spoke some English.
+- I'm sad I didn't get to go to [**Katsuo Shokudo**](https://maps.app.goo.gl/zG9mcrNrwWExRwRX6) for a unique, bonito-focused breakfast. Check their [instagram](https://www.instagram.com/katsuoshokudo/) for hours/days they're open and read the advice from the reviews.
+- [**Shinjuku Ni-chōme**](https://maps.app.goo.gl/qdzKAGuKR5jZKkGB8) is the "gayborhood" of Tokyo. Some bars will be strict about being only for men or women, while others are mixed. My friend (a woman) and I enjoyed getting a drink at [Alamas Cafe](https://maps.app.goo.gl/ae87Yb21cct7sF6q8) which feels like being right back in Mexico, and at [Bar Gold Finger](https://maps.app.goo.gl/u85B8cDWY6vMDtSW9), a lesbian bar that was having a mixed night for men and women. My partner and I got a drink at [AiiRO Cafe](https://maps.app.goo.gl/ae87Yb21cct7sF6q8) which had a fun, upbeat atmosphere and a bartender wearing an ATL hat who was very excited to learn we were from there ("Peace up! A-town down!").
+
 
 # Kyoto 🍡
 
