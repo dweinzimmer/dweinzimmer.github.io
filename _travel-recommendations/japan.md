@@ -18,6 +18,8 @@ I spent almost a month in Japan in spring 2024 (and was lucky to catch cherry bl
 
 # General thoughts
 
+First off, if you're not familiar with different types of soba, [this post](https://www.japan-guide.com/e/e2341.html) has a good overview. You'll also encounter a lot more types of ramen than you may have seen before! And an endless assortment of convenience store (*konbini*) onigiri.
+
 ## Apps
 
 Pack yourself a large external battery, because your phone will really help you out in Japan. Transit and many other signs are always in both English and Japanese, but aside from that there are often significant language barriers, even in major cities like Tokyo and Osaka.
@@ -29,6 +31,8 @@ Pack yourself a large external battery, because your phone will really help you 
 [**Visit Japan Web**](https://services.digital.go.jp/en/visit-japan-web/) was helpful both for filling out the immigration forms to generate a QR code that made it slightly quicker to get through immigration upon arrival; and also for generating a Tax Free Shopping QR code that some businesses accepted (others required seeing your passport, and a photocopy of it won't work, so generally I found it helpful to carry my passport with me every day unlike in most of my travels). You can follow [these instructions](https://www.vjw.digital.go.jp/manual/offline/visitjapanweb_manual_offline_en.html) to put the website on your homescreen so it looks like an app.
 
 ## Rail transportation
+
+Enjoy the delicious *ekiben* (bento boxes for the train) on sale in the shinkansen train stations!
 
 ### IC Cards
 
@@ -100,6 +104,7 @@ There is a lot of really fun shopping in Ginza...
 - [**楽椿ーラクチン**](https://maps.app.goo.gl/wfFYmFxEgtfcGdUp6) in Shibuya was the izakaya we went to on our very first night in Japan, and we really struck gold with it. It was SO good. Delicious torched mackerel, an avocado-tuna dish served with garlic bread, great sushi, and it was all very inexpensive unlike most of the other nearby restaurants. They were friendly and spoke some English.
 - I'm sad I didn't get to go to [**Katsuo Shokudo**](https://maps.app.goo.gl/zG9mcrNrwWExRwRX6) for a unique, bonito-focused breakfast. Check their [instagram](https://www.instagram.com/katsuoshokudo/) for hours/days they're open and read the advice from the reviews.
 - [**Shinjuku Ni-chōme**](https://maps.app.goo.gl/qdzKAGuKR5jZKkGB8) is the "gayborhood" of Tokyo. Some bars will be strict about being only for men or women, while others are mixed. My friend (a woman) and I enjoyed getting a drink at [Alamas Cafe](https://maps.app.goo.gl/ae87Yb21cct7sF6q8) which feels like being right back in Mexico, and at [Bar Gold Finger](https://maps.app.goo.gl/u85B8cDWY6vMDtSW9), a lesbian bar that was having a mixed night for men and women. My partner and I got a drink at [AiiRO Cafe](https://maps.app.goo.gl/ae87Yb21cct7sF6q8) which had a fun, upbeat atmosphere and a bartender wearing an ATL hat who was very excited to learn we were from there ("Peace up! A-town down!").
+- [**Sake Market**](https://www.google.com/maps/search/sake+market/@35.6770149,139.7081107,13z/data=!3m1!4b1?entry=ttu) has locations in Akihabara and Shinjuku; I went to the one in Akihabara by myself for 30 minutes. You reserve for a fixed amount of time and people, and get unlimited pours of sake and other alcohols that are all out for you to serve yourself. It was a fun way to quickly try a variety of sakes! I went at opening time without a reservation, but generally it's best (and easy) to reserve a day or two ahead. The menu has suggestions of what to try, and they are organized by flavor profile.
 
 
 # Kyoto 🍡
@@ -124,6 +129,7 @@ Closer to the central business district:
 
 On the east side of the city, working from south to north:
 - [**Fushimi Inari Taisha**](https://maps.app.goo.gl/NKSE2YdyXPsCxumm9) is the iconic shrine you've seen so many pictures of. It's best to go early in the morning, both since it will still be crowded (but a bit less), and also because it's quite a walk to the top so it's better when the sun isn't as intense. The crowds thin out a bit the higher you go, and it really was very beautiful, with impressive vistas.
+
 - Between Fushimi Inari and the temples further north, we walked around, shopped, and bought snacks around [**Sannenzaka**](https://maps.app.goo.gl/iWTNjs8ULX7JESct5) shopping street (we didn't make it up the hill to [**Kiyomizu-dera**](https://maps.app.goo.gl/8KrFWa1DiBiUktSa9) temple). We went to [**Kasagiya**](https://maps.app.goo.gl/BNtU1Lr347MXkN857) for tea and shaved ice, and [**Fujinami**](https://maps.app.goo.gl/m8hpwFZbxbCo38zn7) for delicious warabi mochi and dango.
 - From there we walked and took a bus to get to [**Higashiyama Jisho-ji**](https://maps.app.goo.gl/BU4hMpxTjMUSXHD56), a stunning Zen temple with amazing gardens, including very intricate sand and rock gardens. Possibly my favorite temple I visited?
 - [**Tetsugaku No Michi/Philosopher's Walk Path**](https://maps.app.goo.gl/Wj6uburhr1msafoi9?g_st=ia) stretches south from Higashiyama Jisho-ji, and is a beautiful walking path around a canal, with cafes, restaurants, and shops along it.
@@ -150,11 +156,32 @@ On the east side of the city, working from south to north:
 
 # Osaka
 
+My beloved Osaka ❤️ especially because I found an amazing, English-friendly [ENT](https://maps.app.goo.gl/rtC9WYH2EMBpeLyn8) here when I had unexpected medical issues. Osaka was a lot of fun, with delicious food. We loved our hotel, the [Cross Hotel Osaka](https://maps.app.goo.gl/Ah2fYUiwfbTZGN4Z8) which was just around the corner from Dotombori and was spacious and comfortable, with by far the largest hotel bath tub of the month (and free bath salts to use with it).
+
 ## Activities
 
-- Visit Nara...
+- We loved the [**sake bar crawl** Airbnb experience](https://www.airbnb.com/experiences/1018635) we went on, hosted by Taka. We met at Temma station, further away from the main tourist neighborhoods, and went to a few different bars. Taka was able to accommodate dietary restrictions, and we enjoyed having delicious small plates and trying multiple sakes. This would be great either as a group or an individual!
+- [**Osaka Castle Park**](https://maps.app.goo.gl/FjovzTcfMmn3Ckpj6) was beautiful to walk through (once again, we were lucky with the timing of cherry blossom season, but it would be pretty at any time). We didn't have the energy/time to go into the castle but maybe next time.
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lamp-bar.webp" alt="">
+  <figcaption><em>Tiramisù cocktail from Lamp Bar</em></figcaption>
+</figure>
+
+- Do a day trip to **Nara** ([Kintetsu-Nara Station](https://maps.app.goo.gl/JQyRgG3ixFecWTQz9)), which is very easy and fast to get to. There were great shops and restuarants on the [**Higashimuki Shopping Street**](https://maps.app.goo.gl/7dizu2yUkHYC79dX9) next to the train station, including [**Nakatanidou**](https://maps.app.goo.gl/1JuDk4anEy6mC6dZ8) for delicious mochi. From there, walk over to the impressive [**Todai-ji Temple**](https://maps.app.goo.gl/higkhDwFZkNAixzFA) and its enormous grounds. You'll see plenty of Nara's famous deer. Before you head back to Osaka, stop at [**Lamp Bar**](https://maps.app.goo.gl/8y2PuHLqXT1B94dCA), an amazing bar with a [bartender who was named best in the world](https://www.diageo.com/en/news-and-media/press-releases/2015/japans-michito-kaneko-proclaimed-worlds-best-bartender) in 2015. There is not a printed menu; the bartenders will ask what types of drinks you like. My favorite drink was the "tiramisu" cocktail that my partner had; I also really liked my Japanese cedar-infused negroni.
+- We went to [**Universal Studios Japan**](https://maps.app.goo.gl/2BrzwNS4jX9HKAAs5) and for us it was a miss. It's quite expensive, and the biggest draw for us was Super Nintendo World which we didn't end up getting to go to; the advanced tickets that include that zone were already sold out months in advance (look on Klook to buy in advance from the US). We got there almost an hour before opening to line up to get in, and once inside we were able to grab a timed entry for late afternoon for Super Nintendo World, but after a couple hours we didn't want to spend the rest of the day waiting for our entry. It was also a school vacation week, so it was extra crowded; but your mileage may vary!
 
 ## Food & Drink
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hakugintei-osaka.webp" alt="">
+  <figcaption><em>Curry from Hakugintei</em></figcaption>
+</figure>
+
+- [**Hakugintei**](https://maps.app.goo.gl/wH5B2vvoDKLLFBNs9) for Japanese curry was absolutely incredible. I recently told a friend that "it was so good, it makes me angry." An absolutely perfect shrimp curry with egg. It's a very popular lunch spot near office buildings, and we lined up about 20 minutes before it opened which ended up working out perfectly -- we were third in line, and a long line quickly formed behind us.
+- [**Okonomiyaki Kiji**](https://maps.app.goo.gl/kt9XueY7muxknymL6) was really good. It's a bit hard to find (downstairs in a mall, but the Google Maps location is accurate!) and is popular so there was about a 20-minute wait when we arrived on a weekday. It was so delicious though, and really fun to sit at tables where each table has a built-in griddle so you can eat the okonomiyaki hot off the griddle with a spatula.
+- There are lots of places to try *takoyaki* in Osaka. My favorite was [**Takoyaki-house Biya**](https://maps.app.goo.gl/Ynk7LB9pTtFZkPor7). Hours may be incorrect on Google, it was closed the first time I went.
+- [**Gyukatsu Motomura**](https://www.google.com/maps/search/gyukatsu+motomura/@34.6675057,135.5000426,17z/data=!3m1!4b1?entry=ttu) has three locations all very close to each other in Dotombori, and serves only one thing: beef which you finish grilling yourself at the table, and is servd with very delicious sauces/sides. The line can be very long, but you can check which of the three locations has the shortest line.
 
 # Hiroshima ⛩️
 
