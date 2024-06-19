@@ -9,6 +9,7 @@ header:
 🚧🚧🚧🚧🚧
 
 Under construction!
+
 I'm actively drafting these recommendations right now, but it's published because it can't wait! Check back, it'll be complete soon.
 
 🚧🚧🚧🚧🚧
@@ -66,7 +67,7 @@ Onsens (hot springs) are a big deal in Japan, and they are wonderful! If you're 
 
 # Tokyo 🗼
 
-I stayed in a few different places in Tokyo... Shimbashi (at the [1899 Hotel](https://www.google.com/maps/place/1899+Hotel/@35.6624252,139.7489498,17z/data=!3m2!4b1!5s0x60188bc0229a1fbd:0x2da516cee522bbb0!4m9!3m8!1s0x60188bc02226b81b:0x7fb504bccc34f7dd!5m2!4m1!1i2!8m2!3d35.6624209!4d139.7538207!16s%2Fg%2F11gghd66xk)) which was very convenient for getting all over the city; Akihabara (at the [JR-East Hotel Mets Akihabara](https://www.google.com/maps/place/JR-East+Hotel+Mets+Akihabara/@35.6981377,139.7720005,19z/data=!3m1!4b1!4m9!3m8!1s0x60188db09bb3676f:0x48bb715b1f5acee2!5m2!4m1!1i2!8m2!3d35.6981366!4d139.7726442!16s%2Fg%2F11h1y61mm6), directly above the train station, which was *so* convenient, and surprisingly spacious and inexpensive); and our first night at a very small hotel in Shibuya which was a bit far but a lovely neighborhood ambiance for my introduction to Japan.
+I stayed in a few different places in Tokyo: Shimbashi (at the [1899 Hotel](https://www.google.com/maps/place/1899+Hotel/@35.6624252,139.7489498,17z/data=!3m2!4b1!5s0x60188bc0229a1fbd:0x2da516cee522bbb0!4m9!3m8!1s0x60188bc02226b81b:0x7fb504bccc34f7dd!5m2!4m1!1i2!8m2!3d35.6624209!4d139.7538207!16s%2Fg%2F11gghd66xk)) which was very convenient for getting all over the city; Akihabara (at the [JR-East Hotel Mets Akihabara](https://www.google.com/maps/place/JR-East+Hotel+Mets+Akihabara/@35.6981377,139.7720005,19z/data=!3m1!4b1!4m9!3m8!1s0x60188db09bb3676f:0x48bb715b1f5acee2!5m2!4m1!1i2!8m2!3d35.6981366!4d139.7726442!16s%2Fg%2F11h1y61mm6), directly above the train station, which was *so* convenient, and surprisingly spacious and inexpensive); and our first night at a very small hotel in Shibuya which was a bit far but a lovely neighborhood ambiance for my introduction to Japan.
 
 If you fly into Narita International Airport, you may see signs as you're waiting in the interminable passport control line to tell you to pre-purchase your [Narita Express](https://www.jreast.co.jp/multi/en/nex/) train ticket. Don't do it! Prepurchasing just meant that I had to wait in an incredibly long line to pick up the ticket; it would have been much faster to just purchase directly at the ticket vending machines.
 {: .notice--warning}
@@ -103,9 +104,49 @@ There is a lot of really fun shopping in Ginza...
 
 # Kyoto 🍡
 
+I stayed at a few different places across my two times in Kyoto. We spent one night with a bit of a splurge at the [Ryokan Tori](https://www.google.com/maps/place/Ryokan+Tori/@35.0281484,135.7426779,15z/data=!4m9!3m8!1s0x600107e7d575464b:0x49fdc63652676f83!5m2!4m1!1i2!8m2!3d35.0281484!4d135.7426779!16s%2Fg%2F11cs0p_cr3?entry=ttu) which was so lovely! It included a tea ceremony, a very nice private onsen (one set of guests use it at a time), and a very delicious breakfast. It was also a very nice "home base" for visiting nearby shrines and the Kinkaku-ji and Ryōan-ji temples.
+
+I also stayed at the very central [Hotel Resol Kyoto Kawaramachi Sanjo](https://www.google.com/maps/place/Hotel+Resol+Kyoto+Kawaramachi+Sanjo/@35.0107512,135.7623331,16z/data=!3m1!5s0x6001089371650f1f:0x7116bcb0421d1452!4m9!3m8!1s0x600108936f1b69ab:0xb80eb3a1caeb393e!5m2!4m1!1i2!8m2!3d35.0079505!4d135.7692203!16s%2Fg%2F11g01vtypn?entry=ttu), which was beautiful and relatively spacious, and very conveniently located; and [The Blossom Kyoto](https://maps.app.goo.gl/3N6QoAe1szxzTKFW9) which was also nice, had a shared onsen, and was walking distance from the main train station.
+
 ## Activities
 
+In the northern/central part of Kyoto:
+- Near our first hotel (the Ryokan Tori), we walked to the [**Kitano-tenmangu Shrine**](https://www.google.com/maps/place/Kitano-tenmangu+Shrine/@35.0302569,135.7311498,16z/data=!4m6!3m5!1s0x600107ed7bf0e06d:0x5b26fec16c2eee1a!8m2!3d35.0311737!4d135.7351227!16zL20vMDZmbXEz?entry=ttu) and then the stunning [**Hirano Shrine**](https://maps.app.goo.gl/g7XD6QrYKprgn33w8) a block away. We were very lucky to be there during peak cherry blossom season (by accident, it came almost two weeks late!), and the Hirano Shrine in particular is famous for its cherry blossoms. I think it would be very beautiful though at any time of year.
+- From there we visited the famous [**Kinkaku-ji**](https://maps.app.goo.gl/mDdLBNi23ziKLhur9) (Golden Pavillion). It's one of the most famous temples in Kyoto, and it really took my breath away. Beautiful scenery around the temple, really lovely gardens.
+- We then walked to [**Ryoan-ji**](https://www.google.com/maps/place/Ry%C5%8Dan-ji/@35.0337007,135.716859,16z/data=!4m6!3m5!1s0x6001a82a301cbaa7:0xe1ab173e46d78542!8m2!3d35.0344943!4d135.7182634!16zL20vMDRkYnhr?entry=ttu) temple just down the road. It had beautiful grounds and a Zen rock garden.
+
+Further west:
+- We took the train to **Arashiyama** ([station](https://www.google.com/maps/place/Arashiyama+Station/@35.0166361,135.6706379,16.03z/data=!4m15!1m8!3m7!1s0x6001a82a301cbaa7:0xe1ab173e46d78542!2zUnnFjWFuLWpp!8m2!3d35.0344943!4d135.7182634!10e5!16zL20vMDRkYnhr!3m5!1s0x6001a9ffbf7df903:0x55fe25ae12cc607e!8m2!3d35.0152199!4d135.6777126!16s%2Fg%2F1225qqyp?entry=ttu)), which was a beautiful and bustling neighboorhood! There were so many people on the street it was hard to walk at first, but it was very nice as we walked into [**Arashiyama Park**](https://www.google.com/maps/place/Arashiyama+Park+Kameyama+Area/@35.0166361,135.6706379,16.03z/data=!4m15!1m8!3m7!1s0x6001a82a301cbaa7:0xe1ab173e46d78542!2zUnnFjWFuLWpp!8m2!3d35.0344943!4d135.7182634!10e5!16zL20vMDRkYnhr!3m5!1s0x6001aa06adc6f49f:0xca892e2244ca2df6!8m2!3d35.0151776!4d135.6713285!16s%2Fg%2F1214fnv8?entry=ttu). We had a lunch reservation in the park for a multi-course tofu menu (at [Shoraian](https://www.google.com/maps/place/Shoraian/@35.0166361,135.6706379,16.03z/data=!4m14!1m8!3m7!1s0x6001a82a301cbaa7:0xe1ab173e46d78542!2zUnnFjWFuLWpp!8m2!3d35.0344943!4d135.7182634!10e5!16zL20vMDRkYnhr!3m4!1s0x6001aa06c66d0acf:0x35b590f68ae42ef2!8m2!3d35.0144471!4d135.6701325?entry=ttu)), and afterward made our way to the famous [**Arashiyama Bamboo Forest**](https://www.google.com/maps/place/Arashiyama+Bamboo+Forest/@35.0166361,135.6706379,16.03z/data=!4m14!1m8!3m7!1s0x6001a82a301cbaa7:0xe1ab173e46d78542!2zUnnFjWFuLWpp!8m2!3d35.0344943!4d135.7182634!10e5!16zL20vMDRkYnhr!3m4!1s0x6001abebbf5c8bad:0xfb9ffc7bbdd67cdd!8m2!3d35.0168184!4d135.6713019?entry=ttu), which was crowded but still impressive.
+
+Closer to the central business district:
+- We went to the [**Nishiki Market**](https://maps.app.goo.gl/CkTuVCTwGqo3wwW49) was so fun to explore. Mostly prepared food items (which you should eat at the stall, *not* walk with).
+- I ran out of time, but as a sewer I wish I had had time to visit [**Nomura Tailor House**](https://maps.app.goo.gl/Xa27UgRRHp2R6u8G6) and [**Nomura Tailor**](https://maps.app.goo.gl/ncSSsketeFzShq8Y9) for fabrics, as well as [**Linnet**](https://maps.app.goo.gl/U5QkoLsvyHBHfjb9A) for both linen fabric and ready to wear linen items.
+
+On the east side of the city, working from south to north:
+- [**Fushimi Inari Taisha**](https://maps.app.goo.gl/NKSE2YdyXPsCxumm9) is the iconic shrine you've seen so many pictures of. It's best to go early in the morning, both since it will still be crowded (but a bit less), and also because it's quite a walk to the top so it's better when the sun isn't as intense. The crowds thin out a bit the higher you go, and it really was very beautiful, with impressive vistas.
+- Between Fushimi Inari and the temples further north, we walked around, shopped, and bought snacks around [**Sannenzaka**](https://maps.app.goo.gl/iWTNjs8ULX7JESct5) shopping street (we didn't make it up the hill to [**Kiyomizu-dera**](https://maps.app.goo.gl/8KrFWa1DiBiUktSa9) temple). We went to [**Kasagiya**](https://maps.app.goo.gl/BNtU1Lr347MXkN857) for tea and shaved ice, and [**Fujinami**](https://maps.app.goo.gl/m8hpwFZbxbCo38zn7) for delicious warabi mochi and dango.
+- From there we walked and took a bus to get to [**Higashiyama Jisho-ji**](https://maps.app.goo.gl/BU4hMpxTjMUSXHD56), a stunning Zen temple with amazing gardens, including very intricate sand and rock gardens. Possibly my favorite temple I visited?
+- [**Tetsugaku No Michi/Philosopher's Walk Path**](https://maps.app.goo.gl/Wj6uburhr1msafoi9?g_st=ia) stretches south from Higashiyama Jisho-ji, and is a beautiful walking path around a canal, with cafes, restaurants, and shops along it.
+
 ## Food & Drink
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nabura-kyoto.webp" alt="">
+  <figcaption><em>Mackerel ramen from Nabura</em></figcaption>
+</figure>
+
+- [**Nabura**](https://www.google.com/maps/place/Nabura/@35.0220141,135.7135757,14.03z/data=!4m15!1m8!3m7!1s0x6001a82a301cbaa7:0xe1ab173e46d78542!2zUnnFjWFuLWpp!8m2!3d35.0344943!4d135.7182634!10e5!16zL20vMDRkYnhr!3m5!1s0x60010798978ecbd1:0x6b67cf301f1a9f54!8m2!3d35.0279702!4d135.7394508!16s%2Fg%2F11t9dbpd6j?entry=ttu) was an incredible, dreamy mackerel ramen that was right by our ryokan. Very inexpensive, one of the restaurants where you order first from a ticket machine at the door and then hand your receipts to the waiters. I would go out of my way to come back for this unique ramen!
+- Mentioned above in activities, but the [**Nishiki Market**](https://maps.app.goo.gl/CkTuVCTwGqo3wwW49) was so fun to explore. Tons of prepared food items and some other durable goods/souvenirs. I'm sure prices aren't the best, but it was great to have such a variety of snacks in a fun atmosphere. We had an egg sandwich, broiled crab legs, and tried some pickles. You could easily make a meal out of walking around the market, but we were saving room for our lunch!
+- Mentioned above as well (Japan really blurs the line between food and activities...), but on Sannenzaka shopping street we went to [**Kasagiya**](https://maps.app.goo.gl/BNtU1Lr347MXkN857) for delicious tea and shaved ice in a very cute, traditional cafe; and to [**Fujinami**](https://maps.app.goo.gl/m8hpwFZbxbCo38zn7) for delicious warabi mochi and dango, probably the best I had in Japan.
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tousuiro-gion.webp" alt="">
+  <figcaption><em>Tousuiro Gion</em></figcaption>
+</figure>
+
+- Kyoto is particularly known for tofu and yuba, and I went to two different multi-course tofu menus: [**Shoraian**](https://maps.app.goo.gl/qvwsTpNQHzrfK91c6) is a remarkable setting, in a beautiful house inside Arashiyama Park with views of the river. It felt very special to eat here, and the food was beautiful and delicious (reserved via JPNeazy). However, I enjoyed the food just a bit more at [**Tousuiro Gion**](https://maps.app.goo.gl/mcjsXzahr11Jrjv5A) (they also have another location [**Tousuiro Kiyamachi**](https://maps.app.goo.gl/TnCBhqV1ndE8FKnP8), though the [menus](https://tousuiro.com/en-menu-gion) are slightly different). We got the "shirakawa" dinner menu, which was filling and delicious with such an incredible variety. You can choose to get a gluten free or vegetarian menu. I didn't make it to [**Yuba Cuisine Higashiyama Yuuzu**](https://maps.app.goo.gl/A22EDEGp8VgyvATT6) for yuba tofu, but I hope to on my next trip!
+- [**Ikiteiru Coffee**](https://maps.app.goo.gl/8PSJssEcf9n3CdNf6) was a very traditional basement coffee shop with nice cakes and ice creams to go with your coffee. I went at opening time (10am) and a line was quickly forming behind me. You can choose from a bunch of different coffee roasts.
+- I'm sad I didn't make it to [**Men-ya Yukou**](https://maps.app.goo.gl/henogBrwftQiFj8XA?g_st=ia) recommended by my friend for their oyster broth ramen.
 
 # Osaka
 
