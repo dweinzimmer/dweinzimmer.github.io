@@ -14,7 +14,16 @@ I'm actively drafting these recommendations right now, but it's published becaus
 
 🚧🚧🚧🚧🚧
 
-I spent almost a month in Japan in spring 2024 (and was lucky to catch cherry blossom season since it came almost two weeks late!). Here are some of my highlights.
+I spent almost a month in Japan in spring 2024 (and was lucky to catch cherry blossom season since it came almost two weeks late!). Here are some of my highlights, across each of the sections below:
+
+1. [General thoughts](#general-thoughts)
+1. [Tokyo 🗼](#tokyo-)
+1. [Kyoto 🍡](#kyoto-)
+1. [Osaka](#osaka)
+1. [Hiroshima ⛩️](#hiroshima-️)
+1. [Sapporo](#sapporo)
+1. [Places for future trips](#places-for-future-trips)
+
 
 # General thoughts
 
