@@ -194,9 +194,41 @@ My beloved Osaka ❤️ especially because I found an amazing, English-friendly 
 
 # Hiroshima ⛩️
 
+Hiroshima surprised me with just how much I loved it! I stayed at the [Hotel Intergate Hiroshima](https://maps.app.goo.gl/HFg35ttpdKJKy39FA), which was a perfectly adequate hotel in a very good location.
+
 ## Activities
 
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hiroshima-paper-cranes.webp" alt="">
+  <figcaption><em>Paper cranes at the Children's Peace Monument</em></figcaption>
+</figure>
+
+- [**The Hiroshima Peace Memorial Museum**](https://maps.app.goo.gl/1S2qsDqF1oBuaZBJ7) and surrounding Peace Memorial Park (especially the [**The Children's Peace Monument**](https://maps.app.goo.gl/41pFdHZHYiMrJcfD7)) were incredibly moving and informative, somber and beautiful. Do not miss it, and give yourself plenty of time to wander.
+
+Aside from that, I enjoyed walking around in Hiroshima since it was such a beautiful city, but a highlight of my trip was my day trip to [**Miyajima Island**](https://www.japan-guide.com/e/e3401.html) (technically called Itsukushima). You can take the streetcar or JR rail to get to the Miyajima ferries, which depart frequently. Once on the island, I enjoyed wandering around the shops and restaurants near the ferry (food recommendations in the next section) and then:
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/itsukushima-shrine.webp" alt="">
+  <figcaption><em>Itsukushima Shrine</em></figcaption>
+</figure>
+
+- [**Itsukushima Shrine**](https://maps.app.goo.gl/oXuaHjn8pKqjxkFq5) is iconic, and really was breathtaking. The enormous red torii gate is actually free-standing in the water, anchored only by its own weight.
+- [**Momijidani Station**](https://maps.app.goo.gl/p7GGMUn2y5y3in3j7?g_st=ia) is the beginning of the **Miyajima Ropeway** which you can take to Shishi-iwa Observatory, most of the way up Mount Misen. I rode the ropeway up, did the hike from Shishi-iwa Observatory to the top of Mount Misen, which includes a number of very nice shrines. From there, I walked all the way back to the bottom of the mountain as opposed to taking the ropeway. It was a long way down, a little over an hour of mostly stairs or slopes down, so I made the right decision for my timeframe in taking the ropeway up! See [more information here](https://www.japan-guide.com/e/e3451.html) about enjoying Mount Misen.
+
 ## Food & Drink
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hassei-hiroshima.webp" alt="">
+  <figcaption><em>Okonomiyaki at Hassei</em></figcaption>
+</figure>
+
+- [**Hassei**](https://maps.app.goo.gl/Q5Kjv5nSLEMPLXob7) was my favorite okonomiyaki I had in Japan. I sat at the bar and watched them make my okonomiyaki, then slide it over to my seat. When I arrived, there was a bit of a wait so they told me what time to come back.
+- [**Okonomi mura Suigun**](https://maps.app.goo.gl/AjZE2oTVvKaHUEER9) is an enormous multi-story food hall dedicated to okonomiyaki. It was fun to walk through and decide where to eat, and I enjoyed having another opportunity to try a delicious okonomiyaki (and make sure to order it piled high with scallions this time).
+- My paramedic (sigh...) recommended two restaurants I'll check out next time! [Gensou Honten](https://maps.app.goo.gl/U1g7NEvxacu6R4L58), an izakaya near the train station; and [Takotsubo](https://maps.app.goo.gl/dmTjbeHfUastQPS29) for more upscale Japanese cuisine.
+
+On **Miyajima Island**, I enjoyed:
+- [**Sakuraya (Yakikaki)**](https://maps.app.goo.gl/jUfrAJcgANdggetf7?g_st=ia) for fresh grilled oysters near the ferry station.
+- [**Yamamura Chaya**](https://maps.app.goo.gl/zvQRv26SxVAGLC438?g_st=ia) for the most delicious and friendly lunch. I got an oyster rice bowl (*kaki donburi*) and sake, and the women who run the restaurant were so nice. It's located near the cable car to go to the top of the mountain, so I stopped here before going up the mountain.
 
 # Sapporo
 
