@@ -6,14 +6,6 @@ header:
   teaser: assets/images/yoichi-kakizaki-honten.jpg
 ---
 
-🚧🚧🚧🚧🚧
-
-Under construction!
-
-I'm actively drafting these recommendations right now, but it's published because it can't wait! Check back, it'll be complete soon.
-
-🚧🚧🚧🚧🚧
-
 I spent almost a month in Japan in spring 2024 (and was lucky to catch cherry blossom season since it came almost two weeks late!). Here are some of my highlights, across each of the sections below:
 
 1. [General thoughts](#general-thoughts)
@@ -23,7 +15,6 @@ I spent almost a month in Japan in spring 2024 (and was lucky to catch cherry bl
 1. [Hiroshima ⛩️](#hiroshima-️)
 1. [Sapporo](#sapporo)
 1. [Places for future trips](#places-for-future-trips)
-
 
 # General thoughts
 
@@ -102,7 +93,6 @@ There is a lot of really fun shopping in Ginza...
 - [**Ginza Natsuno**](https://maps.app.goo.gl/sowhXfG8f5RF6hPp7) had more expensive but very beautiful chopsticks, a great place for gifts. You can pay anywhere from ~$15 to unspeakably large sums.
 - [**Shoyeido Ginza**](https://maps.app.goo.gl/o7UCLUycQeWeTEka7) is an incense shop that we stumbled upon that had beautiful, gift-worthy items.
 
-
 ## Food & Drink
 
 - [**Tsukiji Outer Market**](https://www.google.com/maps/place/Tsukiji+Outer+Market/@35.6611463,139.7705461,15.53z/data=!3m1!5s0x60188bded0599099:0x9e8525c63588dca4!4m6!3m5!1s0x60188b21cd0b675b:0xa26e24a1bf97025c!8m2!3d35.6649185!4d139.7702195!16zL20vMDJsazc2) is both an attraction and very much a place to eat! The fish market has moved over to [Toyosu Fish Market](https://www.google.com/maps/place/Toyosu+Wholesale+Fish+Market/@35.6485545,139.7783982,15.53z/data=!3m1!5s0x60188991c87b9e95:0xf92470403d757b73!4m6!3m5!1s0x6018898de24f1911:0x6ab786a75d8ff16b!8m2!3d35.6419028!4d139.7818519!16s%2Fg%2F11c1p69023) and there are plenty of [guides](https://tokyocheapo.com/entertainment/sightseeing/toyosu-fish-market-what-to-know/) about how to visit that, though we didn't. But I went to Tsukiji three times! I suggest going in the morning; arriving around 8/8:30 was nice and a little less crowded than at 10am. I will never forget the incredible miso black cod I had from [here](https://maps.app.goo.gl/MHHsRKKpEv3U4CuP9). The A5 wagyu steak skewers at [Tsukiji Ihachi](https://maps.app.goo.gl/2YQNG78DGsKvvMbCA?g_st=ia) made my travel partners very emotional, and I loved the King crab leg. 🥹
@@ -114,7 +104,6 @@ There is a lot of really fun shopping in Ginza...
 - I'm sad I didn't get to go to [**Katsuo Shokudo**](https://maps.app.goo.gl/zG9mcrNrwWExRwRX6) for a unique, bonito-focused breakfast. Check their [instagram](https://www.instagram.com/katsuoshokudo/) for hours/days they're open and read the advice from the reviews.
 - [**Shinjuku Ni-chōme**](https://maps.app.goo.gl/qdzKAGuKR5jZKkGB8) is the "gayborhood" of Tokyo. Some bars will be strict about being only for men or women, while others are mixed. My friend (a woman) and I enjoyed getting a drink at [Alamas Cafe](https://maps.app.goo.gl/ae87Yb21cct7sF6q8) which feels like being right back in Mexico, and at [Bar Gold Finger](https://maps.app.goo.gl/u85B8cDWY6vMDtSW9), a lesbian bar that was having a mixed night for men and women. My partner and I got a drink at [AiiRO Cafe](https://maps.app.goo.gl/ae87Yb21cct7sF6q8) which had a fun, upbeat atmosphere and a bartender wearing an ATL hat who was very excited to learn we were from there ("Peace up! A-town down!").
 - [**Sake Market**](https://www.google.com/maps/search/sake+market/@35.6770149,139.7081107,13z/data=!3m1!4b1?entry=ttu) has locations in Akihabara and Shinjuku; I went to the one in Akihabara by myself for 30 minutes. You reserve for a fixed amount of time and people, and get unlimited pours of sake and other alcohols that are all out for you to serve yourself. It was a fun way to quickly try a variety of sakes! I went at opening time without a reservation, but generally it's best (and easy) to reserve a day or two ahead. The menu has suggestions of what to try, and they are organized by flavor profile.
-
 
 # Kyoto 🍡
 
@@ -232,12 +221,59 @@ On **Miyajima Island**, I enjoyed:
 
 # Sapporo
 
-## Activities
+I stayed at two different places in Sapporo, and the [JR Tower Hotel Nikko Sapporo](https://maps.app.goo.gl/sY6DHzu7DstpKAddA) was so nice and incredibly convenient (directly above the train station), albeit a bit expensive. Breakfast was amazing, including croissant dough that you could cook in a waffle iron 🤯 and beautiful views in all directions.
 
+## Activities and shopping
+
+- I went on a short urban hike on [**Maruyama**](https://maps.app.goo.gl/oV7CT3EwXwreDk7MA) above the zoo. (It sounds like the zoo is also good, though I didn't go.) Eventually I had to turn back close to the summit when the trail got very muddy, but before that it was very nice.
+- [**Popondetta Sapporoodoriten**](https://maps.app.goo.gl/hVBrmVUWtLVVPPM77) was a train-themed store in the basement of the Maruzen & Junkudo department store. They had model trains and accessories, and also nice train-related gifts; I got some shinkansen children's chopsticks.
+
+### Yoichi 🥃 and Otaru
+
+I would definitely suggest a day trip to Yoichi, and Otaru is a nice stopover along the way.
+
+**Yoichi** is home to the [**Nikka Whisky Yoichi Distillery**](https://maps.app.goo.gl/yhRVgZxVyppXH8Ej6). You need to reserve tours of the distillery in advance on their website, but it was possible to reserve a slot about a week in advance for me, unlike the other popular distilleries closer to Kyoto, etc. Even if you don't manage to get a reservation, you can still visit the [**Nikka Whisky Museum**](https://maps.app.goo.gl/V6E3HUTPjfpz5r6f7) on the premises without a reservation, and taste any of their whiskies in the attached tasting room.
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/yoichi-kakizaki-honten-2.webp" alt="">
+  <figcaption><em>Itokodon and ruby crab at Kakizaki Shōten</em></figcaption>
+</figure>
+
+However, far and away the highlight of Yoichi for me was the incredible [**Kakizaki Shōten**](https://maps.app.goo.gl/qA3YKojHLGaaEiF67), a seafood restaurant above a seafood market. I went before the distillery tour, and got the *kaisen donburi* (mixed seafood bowl over rice). It was so good, that I came back after the distillery and... ordered two more lunches: the divine salmon and salmon roe bowl (itokodon), and a seasonal ruby crab bowl over rice. This was probably the best sashimi of my month in Japan.
+
+I also stopped for a coffee at [**Coffee Stand by Shizuku**](https://maps.app.goo.gl/YMiA7DWqX7EgYqrF8) in Yoichi, which was nice.
+
+After my second lunch, I got on the train back toward Sapporo, and stopped in **Otaru** on the way. I did an impromptu sake tasting at [**Tanaka Sake Brewing Company**](https://maps.app.goo.gl/jKSLKjhd1P1cXta68), and really enjoyed their sakes and bought a couple. After that I walked along the [**Otaru Canal**](https://maps.app.goo.gl/amDcrY4RjUHrubfw5). Lastly, before returning to Sapporo on the train, I stopped by [**鯉櫻 Koi Zakura**](https://maps.app.goo.gl/VkzuFrZC4cDYEpE98) 🏳️‍🌈 a gay bar owned by a man who is from Otaru but lived for many years in San Francisco; it was opening time so I was the only person there, but we had a very nice conversation.
 
 ## Food & Drink
 
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/araki-tempura-sapporo.webp" alt="">
+  <figcaption><em>Asparagus tempura at Araki Tempura Restaurant</em></figcaption>
+</figure>
+
+- [**Araki Tempura Restaurant**](https://maps.app.goo.gl/59EkWd9Ef74dE1G4A) is a Michelin-starred tempura omakase, and was one of the most memorable meals of my entire trip. It was mostly seafood and vegetables, and there were so many incredible dishes; a really special experience. I was able to make a reservation for one person on JPNeazy (but not their other platform).
+- [**Hachibousei**](https://maps.app.goo.gl/BXsao6nRqT9LPVbY7?g_st=ia) is a delicious tsukemen (dipping ramen) restaurant! My second-favorite meal in Sapporo after Araki. Very popular and will likely have at least a short line to get seated.
+- [**Ebisoba Ichigen**](https://maps.app.goo.gl/DYVRNyj5xBoF4Ftb8?g_st=ia) is across the street from Hachibousei, and serves very delicious and unique shrimp ramen. Also popular, but at least the line here is a long bench so you'll get to take a seat as you wait!
+- [**Crab Gang**](https://maps.app.goo.gl/yr25HXocb8wUQ9ox8) has crab miso ramen, which was very unique! An inexpensive, casual ramen place. Sapporo is famous for its miso ramen. Just a few blocks away is [**Ganso Ramen Yokocho Sapporo**](https://maps.app.goo.gl/JHDWBtLhoXXBxvF17?g_st=ia), the "ramen alley" of Sapporo for more varieties of miso ramen.
+- [**Sapporo Beer Garden**](https://maps.app.goo.gl/hGBbMtk366wCafLj9) is here, not too surprisingly! I didn't make it during my stay.
+
 ## Nearby: Noboribetsu Onsen ♨️
+
+Noboribetsu Onsen is a bit far to be a comfortable day trip from Sapporo, and it's worth it to stay overnight to take full advantage of the hot springs in this onsen town. I took the train to [Noboribetsu Station](https://maps.app.goo.gl/aarEB8NEgMA8Bk3L8), and hopped on the bus right outside that dropped me right by my hotel. If you don't manage to time the buses correctly, Ubers were also available when I opened the app and were not prohibitively expensive. There are also direct buses from Sapporo and elsewhere, on [Donan Bus](https://www.donanbus.co.jp/en/).
+
+I stayed at [**Dai-ichi Takimotokan**](https://maps.app.goo.gl/QqvzqoVSRvZxF5yR7), which I definitely recommend. It's not the fanciest hotel, but it has the largest number of hot springs of any of the hotels in Noboribetsu Onsen. There are five different types of water (salt, sulfur, aluminum, etc.) across 35 baths, with separate sections for men and women. There are indoor and outdoor baths, and you can order sake or snacks to have on a wooden floating table at the outdoor baths. The baths are the reason to stay at this hotel, and they're really great.
+
+The food at the hotel was quite expensive, so I opted to dine elsewhere. [**Fukuan Soba**](https://maps.app.goo.gl/qBS3fQ3phxzZNeZ87) was so good. I got a *tsukimi soba* (hot soba with a raw egg). I ended up getting dinner at a different hotel's buffet, which was decent and less expensive than my hotel.
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jigokudani-noboribetsu.webp" alt="">
+  <figcaption><em>Jigoku-dani, Noboribetsu Onsen</em></figcaption>
+</figure>
+
+There were some nice shops on the main street of Noboribetsu Onsen, and the primary other attraction was [**Jigoku-dani (Hell Valley)**](https://maps.app.goo.gl/cbGWGSPyDLzbwZy2A). It is a very easy and scenic hike on boardwalks through a sulfuric geothermal valley. There are more trails that are open in the summer only (they were still closed in mid-April when I was there), although I was able to visit the [natural footbath](https://maps.app.goo.gl/VMq46uHBU9XVkaic6) (I think I had to approach from the west, not east).
+
+When I got back to the train station and had a couple hours to kill before my train, I left my luggage in a locker at the station and visited the [**Noboribetsu Marine Park Nixe**](https://maps.app.goo.gl/G3tVqWHY5YDqY69m7) a couple blocks away. It was more charming than I expected, and I was lucky to be there in time for the parade of the penguins through the central courtyard!
 
 # Places for future trips
 
