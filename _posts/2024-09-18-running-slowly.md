@@ -1,7 +1,7 @@
 ---
 title: "running slowly"
 last_modified_at: 2024-09-18T21:50:00-07:00
-excerpt: "I've rediscovered joy in running by running slowly"
+excerpt: "I've rediscovered joy in running by running slowly."
 classes: wide
 
 ---
