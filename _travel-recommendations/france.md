@@ -1,6 +1,6 @@
 ---
 title: "France 🇫🇷"
-excerpt: "Mostly Paris, Provence, and a bit of Alsace."
+excerpt: "Mostly Paris, Provence, Bretagne, and a bit of Alsace."
 classes: wide
 header:
   teaser: assets/images/gorges-du-verdon.webp
@@ -9,11 +9,17 @@ header:
 There's no way this could be comprehensive, including for these specific regions/cities! Just some places I've liked and other tips. I don't have any tips here yet from Toulouse, Bordeaux, or Nice, but I also really loved visiting each of those cities and can't wait to go back!
 
 # Paris
-I know I just made that disclaimer above, but this is _really_ a placeholder! I'll add more, probably :) although you don't really need my help to know that the Musée d'Orsay, Louvre, and Rodin Museum are impressive, or that the Eiffel Tower and Palais de Versailles exist... So for now:
+You don't really need my help to know that the Musée d'Orsay, Louvre, and Rodin Museum are impressive, or that the Eiffel Tower and Palais de Versailles exist... so here's just a few places I like! For restaurants, if they take reservations it is a good idea to make one, but you could get lucky.
 
 - **Stohrer** 🥐 ([site](https://stohrer.fr/en/); [map](https://www.google.com/maps/place/Stohrer/@48.8652644,2.3446262,17z/data=!3m2!4b1!5s0x47e66e18404fe485:0x3943d58c58928fda!4m5!3m4!1s0x47e66e183eeb3e77:0x8fd70c0719b6ceab!8m2!3d48.8652644!4d2.3468149)) is my favorite pastry shop. On my last trip, I had 30 minutes to spend in Paris before catching my TGV train, and this is how I spent it. I suggest not missing the large chocolate macaron. (Or your train.)
+- **La Panifacture** 🥐 ([map](https://maps.app.goo.gl/WxfL3dHty84zcXSw8)) has one of my favorite croissant/pain au chocolat in Paris. (Another favorite is **Aux 2 Anges** near Place de la Bastille [here](https://maps.app.goo.gl/4u3h3MPNFeMZcfPj9)).
+- **Au P'tit Curieux** 🍽️ ([site](http://www.auptitcurieux.com/); [map](https://maps.app.goo.gl/6xymbmHZiThEDhje7)) was a slight splurge of a dinner, and was incredibly delicious. Both vegetarians and carnivores were very happy with our meals. Cocktails and wine were also delicious. We will be forever haunted by the unbelievably delicious asparagus soup.
+- **Aux Bons Crus** 🍽️ ([site](http://www.auxbonscrus.fr/) ;[map](https://maps.app.goo.gl/8F1Nzc7NRfYcovSk7)) has a wonderful old-time atmosphere, with very delicious and relatively traditional French food. This was our first meal on my most recent trip, and it did not disappoint.
 - **Le 404** 🍽️ ([site](https://www.404-resto.com/); [map](https://www.google.com/maps/place/Le+404/@48.8644682,2.3521307,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e1af1f8d533:0x31bf6e84f792f26a!8m2!3d48.8644621!4d2.3543156)) is an amazing Moroccan restaurant. Delicious food, beautiful ambiance. Reservations recommended.
-- **Sadaharu Aoki** 🥐 ([map](https://www.google.com/maps/search/sadaharu+aoki/@48.8605835,2.3160896,12.76z)) is a small chain of Japanese-French pastry shops in Paris. I haven't been, but it's at the top of my list for my next visit, and highly vouched for!
+- **Waly Fay** ([map](https://maps.app.goo.gl/uci5wL8QgoSg9uFG6)) is a very delicious Senegalese restaurant! I loved my mafé, and would highly recommend this place.
+- **L'Orillon** 🍷 ([map](https://maps.app.goo.gl/ADkWY9d5VFnx2yBGA)) is a great neighborhood bar for wine or a cocktail and a bite to eat.
+
+Aside from food and drink, **Les Mots à la Bouche** 📚 ([site](http://www.motsbouche.com/); [map](https://maps.app.goo.gl/Z3BxGL25sFqeBru19)) is a great LGBTQ book store.
 
 # Provence (Aix-en-Provence, Marseille, etc.)
 
@@ -93,4 +99,43 @@ When I was staying in Basel, we spent a day in Alsace, which I enjoyed and would
 </figure>
 
 - We went to **Colmar** in the morning, which is a really nice smaller town to walk around, and has its famous **La Petite Venise** ("Little Venice"), which was very beautiful (see picture at right). We then took the regional train up to **Strasbourg** to have lunch and walk around for a few hours. Strasbourg is a bigger city, with plenty to see and eat :)
-- You can purchase an **Alsa+ Groupe Journée ticket** for a group of 2-5 people to travel on all regional trains, buses, and trams for a day. We got the one that covers the entire Alsace region, and for a single €39.10 ticket all three of us were able to hop on any transit and regional trains all day long (the more people in your group, the better the deal it is). Here's a page [in English](https://www.fluo.eu/en/alsa-24h-and-groupe-journee/1022) and [in French](https://www.ter.sncf.com/grand-est/offres/forfaits/alsace/alsace_alsa-plus) about that ticket. You can buy this ticket from the ticket machines at the train station, and it's not necessary to buy in advance.
+- You can purchase an **Alsa+ Groupe Journée ticket** for a group of 2-5 people to travel on all regional trains, buses, and trams for a day. We got the one that covers the entire Alsace region, and for a single €45 ticket all three of us were able to hop on any transit and regional trains all day long (the more people in your group, the better the deal it is). Here's a page [in French](https://www.fluo.grandest.fr/tarifs?_sft_profils=groupe) about all the available group tickets, including [that one](https://www.ter.sncf.com/grand-est/tarifs-cartes/tarifs-regionaux/alsa%2B-groupe-journee) in particular; a weekend group pass also exists. In my experience, you could buy this ticket from the ticket machines at the train station, and it's not necessary to buy in advance, but you can also buy it online.
+
+# Bretagne (Brittany)
+
+More recently, I did a road trip through Bretagne (Brittany), which is the northwestern corner of France. Brittany is culturally a bit distinct from the rest of France, being one of the six [Celtic nations](https://en.wikipedia.org/wiki/Celtic_nations). It's a little off the beaten path, and we had a wonderful time exploring the food and sights. In general, we took a TGV train to [Rennes](https://maps.app.goo.gl/vWWUNd6JMGKRGVKN9) and rented a car to do a loop through Bretagne back to Rennes. It's also possible to take some trains further, to Brest, Quimper, or Lorient (or Nantes, which is not technically in Bretagne administratively any more, but historically was part of Bretagne). If I'm honest about the inspiration for exploring Brittany, it's (1) the beautiful rock arch featured at the beginning of *[Portrait of a Lady on Fire](https://www.imdb.com/title/tt8613070/)* (a film that I loved), (2) the region's famous [kouign amann](https://en.wikipedia.org/wiki/Kouign-amann), and (3) the Celtic-influenced music.
+
+The first place we stayed was **[Quimper](https://maps.app.goo.gl/LJjNBaQL5toRDa48A)**, which was a really beautiful small city. Some things we enjoyed:
+- **Crêperie de la Place au Beurre** 🧈 ([map](https://maps.app.goo.gl/PpW5YETmteBKxLbJ8), [site](https://creperie-quimper.com/)) is one of many crêperies in "Butter Square," and ended up being one of our favorite meals of the trip. Shockingly delicious crêpes (much better than the ones we got a few days later), and also a nice opportunity to try *chouchenn*, the local mead.
+- There were multiple beautiful gardens we chanced upon, including the [Jardin du Prieuré Locmaria](https://maps.app.goo.gl/KdWaXeSGtngmAPBJA).
+
+We used Quimper as a home base for a daytrip southward (which ended up being very long to get back!), visiting...
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cote-sauvage.webp" alt="">
+  <figcaption><em>Algae-covered rocks on the Côte Sauvage</em></figcaption>
+</figure>
+
+- The **[salt marshes of Guérande](https://maps.app.goo.gl/CRfWArgn6n118EfB7)**, one of the most famous places in France for harvesting sea salt. We did a great [tour](https://www.viator.com/tours/Nantes/Visit-to-Saline-Guerande-Salt-Marshes/d23883-477235P1) (only in French during off season, but available in English in the summer) where we learned about the salt production, tasted some local plants, and got to buy their sea salt afterward. This was a bit out of the way, but a lot of fun. After our salt tour, we wandered a bit around [Le Croisic](https://maps.app.goo.gl/jYR9XzJNtbx8tLms7) and had a delicious lunch at [Le Bac à Sable](https://maps.app.goo.gl/Kg7Skee62ctJMinv6).
+- Our next stop was the walled city of **[Vannes](https://maps.app.goo.gl/fzwf7enkqdDHZ6At6)**, which is known for its [gardens](https://maps.app.goo.gl/Phs1aiig5ntp4Md36). This was a nice break to walk around a bit, stretch our legs, and have a drink before continuing on to...
+- The **[Côte Sauvage](https://maps.app.goo.gl/q3csnbSuDBo5xyQG8)**, including especially the [Arche de Port Blanc Roche Percée](https://maps.app.goo.gl/UUEUvEribkRaUJE89), which is the rock arch from the beginning of *Portrait of a Lady on Fire*. We thought this was going to be a quick hop out of the car, walk down along the rocky beach to see the archway, and continue back to Quimper, but we were transfixed by the beautiful scenery! Including rocks covered in a soft carpet of vivid green algae that made it look other worldly. We were lucky to be able to find a place afterward in [Lorient](https://maps.app.goo.gl/QonVMycUpnMRDA4FA) that was willing to serve us a late dinner!
+
+The next day, we stopped in **[Locronan](https://maps.app.goo.gl/ASQwc4RL3deQT6CP6)** on our way north, and it was also one of our favorite small towns we visited. There were beautiful wisteria growing along the buildings in the center. We stopped in **Le Guillou Alain 974** 🥐 ([map](https://maps.app.goo.gl/cbrSebfHt3bWFkcU7)) which ended up being the most delicious kouign amann of the trip, among many delicious sweet and savory baked goods. We also enjoyed the **Lokorn'Mad produits locaux** fine foods shop, which had cheese, pastries, tinned foods, souvenirs, and more.
+
+Further north, we enjoyed visiting the **Miellerie de la Côte des Légendes** 🍯 ([map](https://maps.app.goo.gl/AsczLJGXxszLBHCj6)), which had a ton of different flavors of honey to sample and purchase (as well as rum and *chouchenn*). Just around the corner is the **Menhir de Cam-Louis** ([map](https://maps.app.goo.gl/8JWXi1PxCZRr7wKh8)), one of the many *[menhirs](https://en.wikipedia.org/wiki/Menhir)* throughout Bretagne, in a very beautiful setting along a coastal trail that was stunningly windy.
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cancale-huitres.webp" alt="">
+  <figcaption><em>Oyster market in Cancale</em></figcaption>
+</figure>
+
+Heading further east, we visited the famous walled city of **[Saint-Malo](https://maps.app.goo.gl/Z8yCDKqsr38u1c656)**. Honestly, this is when it started to become apparent we were getting closer to Paris! The town was cute, but very crowded with tourists, and we were missing the serenity of Quimper and Locronan a bit, but we did pick up a butter sampler box from **La Maison du Beurre Bordier** 🧈 ([map](https://maps.app.goo.gl/4jNsNSDKBtN8bK8A8), [site](http://www.maisonbordier.com/)). Just east of Saint-Malo, we enjoyed walking around **Cancale**, which is known for its oysters. We enjoyed a platter of them from the **[Marché aux Huîtres de Cancale](https://maps.app.goo.gl/gviw4Nx8YNcDGarLA)** 🦪 where a variety of oyster vendors are set up along with a mobile wine truck.
+
+The last day of the road trip was visiting **[Mont Saint-Michel](https://maps.app.goo.gl/no1DJT9gN33nspGs9)**. It is very beautiful, and interesting to approach the walled city from the causeway, but it was clear that we were solidly within day-trip distance from Paris, and even in spring it was unpleasantly crowded. However, we did enjoy the enormous range of caramels and other sweets for tasting and sale at **Maison Pèlerin** 🍭 ([map](https://maps.app.goo.gl/iZpaifEEftiVqWmA9), [site](http://www.maison-pelerin.com/)), and we were pretty surprised to find delicious Afghan food at **Restau soleil** 🍽️ ([map](https://maps.app.goo.gl/BBPRSBRusWhFHrjs7)).
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/saga-pacory.webp" alt="">
+  <figcaption><em>Saga, a very good girl</em></figcaption>
+</figure>
+
+Our very last stop was over the border into Normandy, at **Pacory-Ferme des Grimaux** 🥃🍎 ([map](https://maps.app.goo.gl/rWrPpxN35YjihKMx5), [site](http://www.pacory.eu/)). I happened across their *[calvados](https://en.wikipedia.org/wiki/Calvados)* a few years ago, and it's always been my absolute favorite I've ever had (specifically the *hors d'âge*). After trying many calvados since, including ones that are much more expensive, I can confirm this is still my favorite. The *Domfrontais* style calvados they make includes both pears and apples. We enjoyed tasting a bunch of the different liquors they distill, and playing with Saga, their lovely dog who would not leave us alone! I'll be going out of my way to return here whenever I'm remotely nearby with a car, and will be bringing bottles of their calvados home each time.
